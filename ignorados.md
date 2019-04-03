@@ -1,3 +1,3 @@
 ### .gitignore
 
-Patrones de nombres de archivos que git ignirara.
+Patrones de nombres de archivos que git ignorara.
